@@ -143,7 +143,7 @@ http://www.fifa55-live.com/fifa55m-53/00_exp3_480p/chunklist.m3u8
 http://www.fifa55-live.com/fifa55m-53/00_rama_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-id="GVTV" tvg-logo="",Discovery Channel
 http://www.fifa55-live.com/fifa55m-41/00_dischannel_480p/chunklist.m3u8
-http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8 ���ͧ   
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8 ÊÓÃÍ§   
 #EXTINF:-1 group-title="Documentary"tvg-id="GVTV" tvg-logo="",TLC
 http://www.fifa55-live.com/fifa55m-53/00_tlc_480p/chunklist.m3u8   
 #EXTINF:-1 group-title="Documentary"tvg-id="GVTV" tvg-logo="",Animal Planet
@@ -386,7 +386,6 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/46/index.m3u8
 #EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="",Hash Futbol
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
-
 #EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="",PRTV 1
 http://www.fifa55-live.com/fifa55m-53/0x777_prtv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="",PRTV 2
