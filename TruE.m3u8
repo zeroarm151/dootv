@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1,FOX1
+http://43.229.76.54/boboapp1/fox1.stream/playlist.m3u8
+#EXTINF:-1,FOX2
+http://43.229.76.54/boboapp6/FOX_SPORTS_2/playlist.m3u8
+#EXTINF:-1,FOX3
+http://43.229.76.54/boboapp6/FOX_SPORTS_3/playlist.m3u8
+#EXTINF:-1,BEIN1
+http://43.229.76.54/boboapp1/bein1a.stream/playlist.m3u8
+#EXTINF:-1,BEIN2
+http://43.229.76.54/boboapp1/bein2a.stream/playlist.m3u8
+#EXTINF:-1,BEIN3
+http://43.229.76.54/boboapp1/bein3a.stream/playlist.m3u8
+#EXTINF:-1,BEIN4
+http://43.229.76.54/boboapp1/bein4a.stream/playlist.m3u8
+#EXTINF:-1,BEIN5
+http://43.229.76.54/boboapp1/bein5a.stream/playlist.m3u8
+#EXTINF:-1,True Sport HD
+http://43.229.76.54/boboapp1/thd1.stream/playlist.m3u8
+#EXTINF:-1,True Sport HD 2
+http://43.229.76.54/boboapp1/thd22.stream/playlist.m3u8
+#EXTINF:-1,True Sport HD 3
+http://43.229.76.54/boboapp1/thd333.stream/playlist.m3u8
+#EXTINF:-1,True Tennis HD
+http://103.77.116.250/boboapp1/tennis3.stream/playlist.m3u8
