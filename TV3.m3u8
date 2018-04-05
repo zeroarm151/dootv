@@ -251,17 +251,17 @@ http://www.fifa55-live.com/fifa55m-53/0x222_ais_gvtv_720p/chunklist.m3u8
 http://www.fifa55-live.com/fifa55m-53/0x222_ais_gvv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://i.imgur.com/eAps77o.jpg",GVX
 http://www.fifa55-live.com/fifa55m-41/0x222_ais_gvx_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://i.imgur.com/eAps77o.jpg",Bein Sport 1
+#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="https://epg.beinsports.com/th_sports/BS1.svg",Bein Sport 1
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x777_beinsport1_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein Sport 2
+#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="https://epg.beinsports.com/th_sports/BS2.svg",Bein Sport 2
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x777_beinsporthd2_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein Sport 3
+#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="https://epg.beinsports.com/th_sports/BS3.svg",Bein Sport 3
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x777_beinsporthd3_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein Sport 4
+#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="https://epg.beinsports.com/th_sports/BS4.svg",Bein Sport 4
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x777_beinsporthd4_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein Sport 5
+#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.nowgoal.tv/wp-content/uploads/2017/10/bein5-636x358.png",Bein Sport 5
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x222_beinsporthd5_720p/playlist.m3u8
-#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein Sport 6
+#EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/BeinSports.jpg",Bein Sport 6
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x222_beinsporthd6_720p/playlist.m3u8EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Fox Sport 1
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x777_foxsport1_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sport"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Fox Sport 2
