@@ -1,49 +1,49 @@
 #EXTM3U
 #EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",truehd1
 https://live2.intersteam-idc.com/mm88/truehd1.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",truehd2
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",truehd2
 https://live2.intersteam-idc.com/mm88/truehd2.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",truehd3
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",truehd3
 https://live2.intersteam-idc.com/mm88/truehd3.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",truehd5
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",truehd5
 https://live2.intersteam-idc.com/mm88/truesd5.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",truehd6
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",truehd6
 https://live2.intersteam-idc.com/mm88/truesd6.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",truehd7
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",truehd7
 https://live2.intersteam-idc.com/mm88/truesd7.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",Beinth1
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Beinth1
 https://live2.intersteam-idc.com/mm88/beinth1.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",Beinth2
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Beinth2
 https://live2.intersteam-idc.com/mm88/beinth2.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",Beinth3
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Beinth3
 https://live2.intersteam-idc.com/mm88/beinth3.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",Beinth4
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Beinth4
 https://live2.intersteam-idc.com/mm88/beinth4.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",FoXsporT1
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",FoXsporT1
 https://live2.intersteam-idc.com/mm88/foxsport1.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",FoXsporT2
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",FoXsporT2
 https://live2.intersteam-idc.com/mm88/foxsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",FoXsporT2
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",FoXsporT2
 https://live2.intersteam-idc.com/mm88/foxsport3.stream/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",TrueTennisHD
 https://www.fifa55-live.com/fifa55m-136/0x777_truetennis_480p/chunklist_w1171363812.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD2
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",TrueTennisHD2
 http://sportgames88.wowza162.sakkarinsai8.com:19362/sportgames88/0x777_truetennis_720p/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD3
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",TrueTennisHD3
 http://www.fifa55-live.com/fifa55m-136/0x777_truetennis_720p/chunklist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD4
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",TrueTennisHD4
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/670/index.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD5azurewebsites.net
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",TrueTennisHD5azurewebsites.net
 http://www2.maxwin99.live:443/free/0x777_truetennis_360p/chunklist_w400682198.m3u8?key=5922268maxwin991jweqkxqw9
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD Skysport1
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",TrueTennisHD Skysport1
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/737/index.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD Skysport1 Deut
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",TrueTennisHD Skysport1 Deut
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
-#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="",Bein1
+#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein1
 https://58f83983533f0350f321dd46.ballslnw.com/live/stream/bein1.m3u8_ga_cl=58f83983533f0350f321dd43&_ga_sk=4r3dYGQ7&_ga_trck=L0EALOGC3m-yjzEEMQBBDu4
-#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="",Bein2
+#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein2
 https://58f83983533f0350f321dd46.ballslnw.com/live/stream/bein1.m3u8_ga_cl=58f83983533f0350f321dd43&_ga_sk=4r3dYGQ7&_ga_trck=L0EALOGC3m-yjzEEMQBBDu4
-#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="",Bein3
+#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein3
 https://58f83983533f0350f321dd46.ballslnw.com/live/stream/bein1.m3u8_ga_cl=58f83983533f0350f321dd43&_ga_sk=4r3dYGQ7&_ga_trck=L0EALOGC3m-yjzEEMQBBDu4
-#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="",Bein4
+#EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",Bein4
 https://58f83983533f0350f321dd46.ballslnw.com/live/stream/bein1.m3u8_ga_cl=58f83983533f0350f321dd43&_ga_sk=4r3dYGQ7&_ga_trck=L0EALOGC3m-yjzEEMQBBDu4
