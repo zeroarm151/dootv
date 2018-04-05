@@ -1,0 +1,648 @@
+#EXTM3U
+#EXTINF:-1,3HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1,3 HD (BU)
+http://27.131.160.10/ibcbet/ch3/playlist.m3u8
+#EXTINF:-1,TV5 HD
+http://27.131.160.10/ibcbet/ch5/playlist.m3u8
+#EXTINF:-1,TV5 HD (BU)
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308661309596_600/playlist.m3u8
+#EXTINF:-1,TV5 HD (BU)
+http://103.212.181.21:1935/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+#EXTINF:-1,TV5 HD (BU)
+http://27.131.160.10/ibcbet/ch5/playlist.m3u8
+#EXTINF:-1,BBTV HD
+http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
+#EXTINF:-1,BBTV HD (BU)
+http://27.131.160.10/ibcbet/ch7/playlist.m3u8
+#EXTINF:-1,BBTV HD (BU)
+http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
+#EXTINF:-1,BBTV HD (BU)
+http://27.131.160.10/ibcbet/ch7/playlist.m3u8
+#EXTINF:-1,MCOT HD
+http://27.254.154.154:1935/sport/MCOT_HD.stream/playlist.m3u8
+#EXTINF:-1,MCOT HD (BU)
+http://27.131.160.10/ibcbet/ch9/playlist.m3u8
+#EXTINF:-1,MCOT HD (BU)
+http://27.254.154.154:1935/sport/MCOT_HD.stream/playlist.m3u8
+#EXTINF:-1,MCOT HD (BU)
+http://27.131.160.10/ibcbet/ch9/playlist.m3u8
+#EXTINF:-1,MCOT FAMILY HD
+http://27.254.154.154:1935/sport/MCOTFamily.stream/playlist.m3u8
+#EXTINF:-1,NBT
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308806374084_600/playlist.m3u8
+#EXTINF:-1,TPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8 
+#EXTINF:-1,TNN24
+http://103.77.116.193:443/tvdigital/tnn24_480p.stream/playlist.m3u8
+#EXTINF:-1,TNN24 (BU)
+http://103.77.116.193:443/news/tnn24_480p.stream/playlist.m3u8
+#EXTINF:-1,TNN2
+http://103.77.116.193:443/news/tnn2_480p.stream/playlist.m3u8
+#EXTINF:-1,MONEY
+http://103.77.116.193:443/news/money_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,PPTV HD
+http://103.77.116.193:443/tvdigital/pptv_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,PPTV HD (BU)
+http://191.96.38.185/fifa55m-41/0x777_tvdigital_pptv_480p/playlist.m3u8
+#EXTINF:-1,PPTV HD (BU)
+http://27.131.160.10/ibcbet/pptv/playlist.m3u8
+#EXTINF:-1,PPTV HD (BU)
+http://27.254.154.154:1935/sport/PPTV_HD.stream/playlist.m3u8
+#EXTINF:-1,ONE
+http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/307501290591_600/playlist.m3u8
+#EXTINF:-1,ONE HD (BU)
+http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+#EXTINF:-1,AMARIN
+http://s2.live14.com/stream/5195e80fe1ed0/chunklist_w1786785056.m3u8
+#EXTINF:-1,AMARIN (BU)
+http://27.254.64.112:1935/thflixCH/Amarin_TV_HD.stream/playlist.m3u8
+#EXTINF:-1,THAIRAT TV
+http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308524491567_600/plalist.m3u8
+#EXTINF:-1,MONO29 TV HD
+http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
+#EXTINF:-1,NOW 26
+http://nationstream.nationgroup.com/hls/th_high.m3u8 
+#EXTINF:-1,NOW 26 (BU)
+http://live.pjmcdn.info/live/NOW-TV.stream/playlist.m3u8
+#EXTINF:-1,WORKPOINT
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277227873_600/playlist.m3u8
+#EXTINF:-1,WORKPOINT 
+http://27.131.160.10/ibcbet/workpoint/playlist.m3u8
+#EXTINF:-1,CH8
+http://111.223.51.3/desktop/ch8_720p/playlist.m3u8
+#EXTINF:-1,CH8 (BU)
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:-1,CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1,SABAIDEE
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:-1,FAN TV
+http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308045591837_600/playlist.m3u8
+#EXTINF:-1,YOU TV
+http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:-1,VOICE TV
+http://103.77.116.193:443/tvdigital/voice_tv_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE4YOU
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308235425316_600/playlist.m3u8
+#EXTINF:-1,GMM25
+http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/315176301208_600/playlist.m3u8
+#EXTINF:-1,GMM25 (BU)
+http://27.254.64.112:1935/thflixCH/Gmm25.stream/playlist.m3u8
+#EXTINF:-1,NATION
+http://103.77.116.193:443/tvdigital/nation_tv_480p.stream/playlist.m3u8
+#EXTINF:-1,NEW TV
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1,SPRING NEWS HD
+http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist.m3u8
+#EXTINF:-1,SPRING NEWS HD
+http://103.212.181.21:1935/freelive-edge/_definst_/springnews.smil/playlist.m3u8   
+#EXTINF:-1,BRIGHT TV
+http://103.77.116.193:443/tvdigital/bright_tv_480p.stream/playlist.m3u8
+#EXTINF:-1,BRIGHT TV (BU)
+http://103.212.181.21:1935/freelive-edge/_definst_/brighttv.smil/playlist.m3u8
+#EXTINF:-1,JKN
+http://103.77.116.193:443/documentary/jkn_dramax_720p.stream/playlist.m3u8
+#EXTINF:-1,3 SD
+http://103.77.116.193:443/tvdigital/3_sd_480p.stream/playlist.m3u8
+#EXTINF:-1,3 FAMILY
+http://103.77.116.193:443/tvdigital/3_family_480p.stream/playlist.m3u8
+#EXTINF:-1,MCOT 1
+http://103.77.116.193:443/tvdigital/mcot1_480p.stream/playlist.m3u8
+#EXTINF:-1,PLOOK PANYA
+http://103.77.116.193:443/tvdigital/true_plook_panya_480p.stream/playlist.m3u8
+#EXTINF:-1,CCTV4
+http://103.77.116.193:443/tvdigital/cctv4_480p.stream/playlist.m3u8
+#EXTINF:-1,SARADEE
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
+#EXTINF:-1,GVTV
+http://103.77.116.193:443/varity/ais_gvtv_720p.stream/playlist.m3u8
+#EXTINF:-1,GVV
+http://103.77.116.193:443/varity/ais_gvv_720p.stream/playlist.m3u8
+#EXTINF:-1,GVX
+http://103.77.116.193:443/varity/ais_gvx_720p.stream/playlist.m3u8
+#EXTINF:-1,CHIC CHANNEL
+http://103.77.116.193:443/tvdigital/chicchannel_480p.stream/playlist.m3u8
+#EXTINF:-1,NICK Jr.
+http://191.96.38.185/fifa55m-54/0x222_nickjrthai_720p/playlist.m3u8
+#EXTINF:-1,NICK Jr. (BU)
+http://103.77.116.193:443/cartoon/nick_jr._720p.stream/playlist.m3u8
+#EXTINF:-1,DISNEY XD
+http://191.96.38.185/fifa55m-41/0x222_disneyxd_720p/playlist.m3u8
+#EXTINF:-1,DISNEY XD (BU)
+http://103.77.116.193:443/cartoon/disney_xd_720p.stream/playlist.m3u8
+#EXTINF:-1,DISNEY XD (BU)
+http://191.96.38.185/fifa55m-41/0x222_disneyxd_720p/playlist.m3u8
+#EXTINF:-1,DISNEY KIDS
+http://103.77.116.193:443/cartoon/discovery_kids_720p.stream/playlist.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://103.77.116.193:443/cartoon/disney_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,TOONAMI
+http://103.77.116.193:443/cartoon/toonami_720p.stream/playlist.m3u8
+#EXTINF:-1,BABY TV HD
+http://103.77.116.193:443/cartoon/baby_tv_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPARK PLAY
+http://191.96.38.185/fifa55m-53/00_spark_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPSRK PLAY (BU)
+http://191.96.38.185/fifa55m-53/00_spark_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPARK PLAY (BU)
+http://103.77.116.193:443/cartoon/true_spark_play_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPARK JUMP
+http://103.77.116.193:443/cartoon/true_spark_jump_480p.stream/playlist.m3u8
+#EXTINF:-1,CARTOON CLUB
+http://191.96.38.185/fifa55m-53/00_gangcartoon_480p/playlist.m3u8
+#EXTINF:-1,CARTOON CLUB (BU)
+http://103.77.116.193:443/cartoon/gang_cartoon_480p.stream/playlist.m3u8
+#EXTINF:-1,BOOMERANG
+http://191.96.38.185/fifa55m-53/00_boomerang_480p/playlist.m3u8
+#EXTINF:-1,BOOMERANG (BU)
+http://103.77.116.193:443/cartoon/boomerang_480p.stream/playlist.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://191.96.38.185/fifa55m-41/0x777_discoverykids_720p/playlist.m3u8
+#EXTINF:-1,HBO HD
+http://191.96.38.185/fifa55m-53/0x222_ais_hbohdth_720p/playlist.m3u8
+#EXTINF:-1,HBO HD (BU)
+http://103.77.116.193:443/movie/hbo_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,HBO HD (TH)
+http://103.77.116.193:443/movie/hbo_th_720p.stream/playlist.m3u8
+#EXTINF:-1,HBO HD (TH)
+http://soccerlive168.sai8.live:443/free53/0x222_ais_hbohdth_720p/playlist.m3u8
+#EXTINF:-1,HBO HD (TH)
+http://191.96.38.185/fifa55m-53/0x222_ais_hbohdth_720p/playlist.m3u8
+#EXTINF:-1,HBO HITS
+http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://103.77.116.193:443/movie/hbo_signature_720p.stream/playlist.m3u8
+#EXTINF:-1,HBO FAMILY
+http://103.77.116.193:443/movie/hbo_family_720p.stream/playlist.m3u8
+#EXTINF:-1,M CHANNEL
+http://103.77.116.250/boboapp4/pb_55_mchannel/playlist.m3u8
+#EXTINF:-1,M CHANNEL (BU)
+http://103.77.116.193:443/movie/m_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,RED BY HBO
+http://103.77.116.193:443/movie/red_by_hbo_720p.stream/playlist.m3u8
+#EXTINF:-1,WARNER TV
+http://103.77.116.193:443/movie/warner_tv_720p.stream/playlist.m3u8
+#EXTINF:-1,CINEMAX
+http://103.77.116.193:443/movie/cinemax_720p.stream/playlist.m3u8
+#EXTINF:-1,DOONEE
+http://103.77.116.193:443/movie/ais_doonee_720p.stream/playlist.m3u8
+#EXTINF:-1,STARWORLD
+http://103.77.116.193:443/movie/starworld_720p.stream/playlist.m3u8
+#EXTINF:-1,WARNER
+http://103.77.116.193:443/movie/warner_tv_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE THAI FILM
+http://103.77.116.193:443/movie/true_thai_film_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE THAI FILM (BU)
+http://191.96.38.185/fifa55m-136/00_2thaifilm_480p/playlist.m3u8
+#EXTINF:-1,TRUE THAI FILM (BU)
+http://103.77.116.193:443/movie/true_thai_film_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE ASIAN SERIES
+http://103.77.116.193:443/movie/true_asian_series_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE FILM ASIA 
+http://103.77.116.193:443/movie/true_film_asia_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SERIES
+http://103.77.116.193:443/movie/true_series_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE MOVIES HITS
+http://103.77.116.193:443/movie/true_movie_hits_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE FILM ASIA
+http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/playlist.m3u8
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://191.96.38.185/fifa55m-53/0x222_foxactionmovieth_720p/playlist.m3u8
+#EXTINF:-1,FOX ACTION MOVIES (TH)
+https://www.fifa55-live.com/fifa55m-53/0x222_foxactionmovieth_720p/chunklist.m3u8?key=nokey
+#EXTINF:-1,FOX ACTION MOVIES (BU)
+http://103.77.116.193:443/movie/fox_action_movies_720p.stream/playlist.m3u8
+#EXTINF:-1,FOX MOVIES (EN)
+http://191.96.38.185/fifa55m-53/0x222_foxactionmovieen_720p/playlist.m3u8
+#EXTINF:-1,FOX FAMILY (EN)
+http://103.77.116.193:443/movie/ais_foxfamen_720p.stream/playlist.m3u8
+#EXTINF:-1,STARWORLD
+http://cdn4-live.googlestreamming.com:443/movie/starworld_720p.stream/playlist.m3u8
+#EXTINF:-1,STARWORLD (BU)
+http://103.77.116.193:443/movie/starworld_720p.stream/playlist.m3u8
+#EXTINF:-1,FOX CRIME
+http://103.77.116.233:443/movie/ais_foxcrimeen_720p.stream/playlist.m3u8
+#EXTINF:-1,FOX CRIME HD (TH)
+http://103.77.116.193:443/movie/tot_foxcrimehdthai_720p.stream/playlist.m3u8
+#EXTINF:-1,FX
+http://103.77.116.193:443/movie/fx_720p.stream/playlist.m3u8
+#EXTINF:-1,STAR WORLD 
+http://103.77.116.191:443/movie/starworld_720p.stream/playlist.m3u8
+#EXTINF:-1,FOX THAI
+http://103.77.116.193:443/movie/fox_thai_480p.stream/playlist.m3u8
+#EXTINF:-1,FOX TH
+http://soccerlive168.sai8.live:443/free/00_foxthai_480p/playlist.m3u8
+#EXTINF:-1,FOX THAI
+https://www.fifa55-live.com/fifa55m-136/00_foxthai_480p/chunklist.m3u8?key=nokey
+#EXTINF:-1,THRILL
+http://103.77.116.193:443/movie/thrill_720p.stream/playlist.m3u8
+#EXTINF:-1,ZEENUNG
+http://103.77.116.193:443/movie/ais_zeenung_720p.stream/playlist.m3u8
+#EXTINF:-1,CELESTIAL CLASSIC MOVIES
+http://103.77.116.193:443/movie/celestial_classic_movies_720p.stream/playlist.m3u8
+#EXTINF:-1,H2
+http://191.96.38.185/fifa55m-41/0x777_h2hd_720p/playlist.m3u8
+#EXTINF:-1,H2 (BU)
+http://103.77.116.193:443/documentary/h2_720p.stream/playlist.m3u8
+#EXTINF:-1,HISTORY HD
+http://191.96.38.185/fifa55m-41/0x777_historyhd_720p/playlist.m3u8
+#EXTINF:-1,HISTORY HD (BU)
+http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,AXN
+http://103.77.116.193:443/documentary/axn_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,AXN HD (BU)
+http://103.77.116.193:443/varity/axn_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,SAMROJLOK
+http://103.77.116.193:443/documentary/samrojlok_720p.stream/playlist.m3u8
+#EXTINF:-1,SAMROJLOK (BU)
+http://191.96.38.185/fifa55m-41/0x777_samrujlok_720p/playlist.m3u8
+#EXTINF:-1,SAMROJLOK (BU)
+http://103.77.116.193:443/documentary/samrojlok_720p.stream/playlist.m3u8
+#EXTINF:-1,MYSCI
+http://191.96.38.185/fifa55m-41/0x222_mysci_720p/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://191.96.38.185/fifa55m-41/0x777_animalplanet_720p/playlist.m3u8
+#EXTINF:-1,NG.HD
+http://103.77.116.193:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,NG.WILD
+http://103.77.116.193:443/documentary/national_geographic_wild_720p.stream/playlist.m3u8
+#EXTINF:-1,NG.PEOPLE
+http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE WILD
+http://103.77.116.193:443/documentary/true_explore_wild_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE LIFE
+http://103.77.116.193:443/documentary/true_explore_life_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE SCI
+http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/playlist.m3u8
+#EXTINF:-1,DIS.SCI
+http://191.96.38.185/fifa55m-41/0x777_dissci_720p/playlist.m3u8
+#EXTINF:-1,DIS.ASIA
+http://191.96.38.185/fifa55m-41/0x777_discoveryworldhd_720p/playlist.m3u8
+#EXTINF:-1,DIS.CHANNEL
+http://191.96.38.185/fifa55m-41/00_dischannel_480p/playlist.m3u8
+#EXTINF:-1,DIS.CHANNEL (BU)
+http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,DIS.HD WORLD
+http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8
+#EXTINF:-1,BBC EARTH
+http://191.96.38.185/fifa55m-41/0x777_bbcearth_720p/playlist.m3u8
+#EXTINF:-1,BBC LIFE STYLE HD
+http://191.96.38.185/fifa55m-41/0x222_lifestylehd_720p/playlist.m3u8
+#EXTINF:-1,TLC
+http://191.96.38.185/fifa55m-53/00_tlc_480p/playlist.m3u8
+#EXTINF:-1,TLC (BU)
+http://103.77.116.193:443/movie/tlc_480p.stream/playlist.m3u8
+#EXTINF:-1,FYI
+http://103.77.116.193:443/documentary/fyi_720p.stream/playlist.m3u8
+#EXTINF:-1,DMAX
+http://103.77.116.193:443/documentary/dmax_720p.stream/playlist.m3u8
+#EXTINF:-1,JKN DRAMAX
+http://103.77.116.193:443/documentary/jkn_dramax_720p.stream/playlist.m3u8
+#EXTINF:-1,AFC
+http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,EVE
+http://103.77.116.193:443/varity/eve_720p.stream/playlist.m3u8
+#EXTINF:-1,REALITY
+http://103.77.116.193:443/varity/reality_hd_480p.stream/playlist.m3u8
+#EXTINF:-1,AXN
+http://103.77.116.193:443/varity/axn_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,FASHION HD
+http://103.77.116.193:443/varity/fashion_tv_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE X-ZYTE
+http://103.77.116.193:443/varity/true_x-zyte_480p.stream/playlist.m3u8
+#EXTINF:-1,TRAVEL
+http://103.77.116.193:443/varity/travel_channel_thailand_480p.stream/playlist.m3u8
+#EXTINF:-1,MIRACLE
+http://103.77.116.193:443/varity/miracle_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,YOU CHANNEL
+http://103.77.116.193:443/varity/you_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,SMART SME
+http://103.77.116.193:443/documentary/smart_sme_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,RAMA
+http://103.77.116.193:443/documentary/rama_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,NHK WORLD
+http://103.77.116.193:443/news/nhk_world_tv_720p.stream/playlist.m3u8
+#EXTINF:-1,FRANCE24
+http://103.77.116.193:443/news/france_24_720p.stream/playlist.m3u8
+#EXTINF:-1,EURO NEWS
+http://103.77.116.193:443/news/euronews_720p.stream/playlist.m3u8
+#EXTINF:-1,SKY NEWS HD
+http://103.77.116.193:443/news/sky_news_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,FOX NEWS
+http://103.77.116.193:443/news/fox_news_720p.stream/playlist.m3u8
+#EXTINF:-1,CNA
+http://103.77.116.193:443/news/channel_newsasia_720p.stream/playlist.m3u8
+#EXTINF:-1,CCTV4
+http://103.77.116.193:443/tvdigital/cctv4_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE TENNIS HD
+http://191.96.38.185/fifa55m-136/0x777_truetennis_720p/playlist.m3u8
+#EXTINF:-1,TRUE TENNIS HD (BU)
+http://103.77.116.193:443/sporttrue/true_tennis_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,GOLF CHANNEL THAILAND
+http://191.96.38.185/fifa55m-54/0x777_golfchannel_720p/playlist.m3u8
+#EXTINF:-1,GOLF CHANNEL THAILAND (BU)
+http://103.77.116.193:443/sporttrue/golf_channel_thailand_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 1
+http://191.96.38.185/fifa55m-54/0x777_2sporthd1_720p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 1 (BU)
+http://103.77.116.193:443/sporttrue/truesport_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 2
+http://191.96.38.185/fifa55m-54/0x777_2sporthd2_720p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 2 (BU)
+http://103.77.116.193:443/sporttrue/truesport_hd_2_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 3
+http://191.96.38.185/fifa55m-54/0x777_2sporthd3_720p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 3 (BU)
+http://103.77.116.193:443/sporttrue/truesport_hd_3_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 4
+http://191.96.38.185/fifa55m-54/0x777_2sporthd4_720p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 4 (BU)
+http://103.77.116.193:443/sporttrue/truesport_hd_4_720p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 1
+http://191.96.38.185/fifa55m-136/00_2sport1_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 1 (BU)
+http://103.77.116.193:443/sporttrue/truesport_1_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 2
+http://191.96.38.185/fifa55m-136/00_2sport2_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 2 (BU)
+http://103.77.116.193:443/sporttrue/truesport_2_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 3
+http://191.96.38.185/fifa55m-136/00_2sport3_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 3 (BU)
+http://103.77.116.193:443/sporttrue/truesport_3_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 5
+http://191.96.38.185/fifa55m-136/00_2sport5_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 5 (BU)
+http://103.77.116.193:443/sporttrue/truesport_5_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 6
+http://191.96.38.185/fifa55m-136/00_2sport6_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 6 (BU)
+http://103.77.116.193:443/sporttrue/truesport_6_480p.stream/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 7
+http://191.96.38.185/fifa55m-136/00_2sport7_480p/playlist.m3u8
+#EXTINF:-1,TRUE SPORT 7 (BU)
+http://103.77.116.193:443/sporttrue/truesport_7_480p.stream/playlist.m3u8
+#EXTINF:-1,SIAM SPORT
+http://103.77.116.193:443/sporttrue/siamsport_football_480p.stream/playlist.m3u8
+#EXTINF:-1,SIAM SPORTS NEWS
+http://103.77.116.193:443/sporttrue/siamsport_news_480p.stream/playlist.m3u8
+#EXTINF:-1,SPEED CHANNEL
+http://103.77.116.193:443/sporttrue/speed_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,T SPORT
+http://103.77.116.193:443/sporttrue/t-sports_480p.stream/playlist.m3u8
+#EXTINF:-1,SMMTV SPORT
+http://103.77.116.193:443/sporttrue//smmtv_480p.stream/playlist.m3u8
+#EXTINF:-1,MUTV
+http://103.77.116.193:443/sportinter/mutv_360p.stream/playlist.m3u8
+#EXTINF:-1,SONY TEN 2 HD
+http://soccerlive168.sai8.live:443/free41/0x444_sonyten2_360p/playlist.m3u8
+#EXTINF:-1,SONY ESPN
+http://soccerlive168.sai8.live:443/free41/0x444_sonyespn_360p/playlist.m3u8
+#EXTINF:-1,WWE
+http://soccerlive168.sai8.live:443/free41/0x444_wwe_360p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://191.96.38.185/fifa55m-136/0x777_beinsport1_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 1 (BU)
+http://103.77.116.193:443/sportinter/bein1arab_360p.stream/playlist.m3u8
+#EXTINF:-1,TRUE beIN SPORTS 1
+http://soccerlive168.sai8.live:443/free/0x777_beinsport1_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://191.96.38.185/fifa55m-136/0x777_beinsporthd2_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2 (BU)
+http://103.77.116.193:443/sportinter/bein2arab_360p.stream/playlist.m3u8
+#EXTINF:-1,TRUE beIN SPORTS 2
+http://soccerlive168.sai8.live:443/free/0x777_beinsporthd2_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://191.96.38.185/fifa55m-136/0x777_beinsporthd3_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 3 (BU)
+http://103.77.116.193:443/sportinter/bein4arab_360p.stream/playlist.m3u8
+#EXTINF:-1,TRUE beIN SPORTS 3
+http://soccerlive168.sai8.live:443/free/0x777_beinsporthd3_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://191.96.38.185/fifa55m-136/0x777_beinsporthd4_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 4 (BU)
+http://103.77.116.193:443/sportinter/bein4arab_360p.stream/playlist.m3u8
+#EXTINF:-1,TRUE beIN SPORTS 4
+http://soccerlive168.sai8.live:443/free/0x777_beinsporthd4_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 5
+http://103.77.116.193:443/sporttrue/bein_sports_5_720p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 5 (BU)
+http://103.77.116.193:443/sportinter/bein5arab_360p.stream/playlist.m3u8
+#EXTINF:-1,TRUE beIN SPORTS 5
+http://soccerlive168.sai8.live:443/free/0x777_beinsporthd5_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 6
+http://103.77.116.193:443/sporttrue/bein_sports_6_720p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 6 (BU)
+http://103.77.116.193:443/sportinter/bein6arab_360p.stream/playlist.m3u8
+#EXTINF:-1,TRUE beIN SPORTS 6
+http://soccerlive168.sai8.live:443/free/0x777_beinsporthd6_720p/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 7
+http://103.77.116.193:443/sportinter/bein7arab_360p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 7
+http://103.77.116.193:443/sportinter/bein8arab_360p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 8
+http://103.77.116.193:443/sportinter/bein8arab_360p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 9
+http://103.77.116.193:443/sportinter/bein9arab_360p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 1 (FR)
+http://103.77.116.193:443/sportinter/bein_sports_1_france_360p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2 (FR)
+http://103.77.116.193:443/sportinter/bein_sports_2_france_360p.stream/playlist.m3u8
+#EXTINF:-1,SKYNET SPORTS HD
+http://191.96.38.185/fifa55m-41/0x777_skynetsporthd_720p/playlist.m3u8
+#EXTINF:-1,SKYNET SPORTS 1
+http://191.96.38.185/fifa55m-41/00_skynetsport1_480p/playlist.m3u8
+#EXTINF:-1,SKYNET SPORTS 2
+http://191.96.38.185/fifa55m-41/00_skynetsport2_480p/playlist.m3u8
+#EXTINF:-1,SKYNET SPORTS 3
+http://191.96.38.185/fifa55m-41/00_skynetsport3_480p/playlist.m3u8
+#EXTINF:-1,SKYNET SPORTS 4
+http://191.96.38.185/fifa55m-41/00_skynetsport4_480p/playlist.m3u8
+#EXTINF:-1,SKYNET SPORTS 5
+http://191.96.38.185/fifa55m-41/00_skynetsport5_480p/playlist.m3u8
+#EXTINF:-1,SKYNET SPORTS 6
+http://191.96.38.185/fifa55m-41/00_skynetsport6_480p/playlist.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://103.77.116.193:443/sporttrue/fox_sports_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://191.96.38.185/fifa55m-54/0x777_foxsport1_720p/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://191.96.38.185/fifa55m-54/0x777_foxsport2_720p/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://191.96.38.185/fifa55m-54/0x777_foxsport3_720p/playlist.m3u8
+#EXTINF:-1,NBA
+http://191.96.38.185/fifa55m-54/0x777_2nba_720p/playlist.m3u8
+#EXTINF:-1,SONY ESPN
+http://103.77.116.193:443/sportinter/sony_expn_480p.stream/playlist.m3u8
+#EXTINF:-1,SONY ESPN (BU)
+http://103.77.116.193:443/sportinter/sony_espn_360p.stream/playlist.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://103.77.116.193:443/sportinter/ais_fightsport_720p.stream/playlist.m3u8
+#EXTINF:-1,ESPN
+http://191.96.38.185/fifa55m-41/0x777_espnhd_720p/playlist.m3u8
+#EXTINF:-1,ESPN (BU)
+http://103.77.116.193:443/sportinter/espn_720p.stream/playlist.m3u8
+#EXTINF:-1,WWE
+http://191.96.38.86:443/free41/0x444_wwe_360p/playlist.m3u8
+#EXTINF:-1,NATION TV
+http://103.77.116.193:443/news/nation_tv_480p.stream/chunklist.m3u8
+#EXTINF:-1,TGN
+http://103.77.116.193:443/news/tgn_480p.stream/chunklist.m3u8
+#EXTINF:-1,SKY NEWS
+http://103.77.116.193:443/news/sky_news_hd_720p.stream/chunklist.m3u8
+#EXTINF:-1,NEWSASIA
+http://103.77.116.193:443/news/channel_newsasia_720p.stream/chunklist.m3u8
+#EXTINF:-1,EURONEWS
+http://103.77.116.193:443/news/euronews_720p.stream/chunklist.m3u8
+#EXTINF:-1,FOX NEWS
+http://103.77.116.193:443/news/fox_news_720p.stream/chunklist.m3u8
+#EXTINF:-1,TNN24
+http://103.77.116.193:443/news/tnn24_480p.stream/chunklist.m3u8
+#EXTINF:-1,TNN2
+http://103.77.116.193:443/news/tnn2_480p.stream/chunklist.m3u8
+#EXTINF:-1,MONEY
+http://103.77.116.193:443/news/money_channel_480p.stream/chunklist.m3u8
+#EXTINF:-1,NHK WORLD
+http://103.77.116.193:443/news/nhk_world_tv_720p.stream/chunklist.m3u8
+#EXTINF:-1,FRANCE24
+http://103.77.116.193:443/news/france_24_720p.stream/chunklist.m3u8
+#EXTINF:-1,TRUE MUSIC
+http://103.77.116.193:443/music/true_music_480p.stream/chunklist.m3u8
+#EXTINF:-1,SABAIDEE
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:-1,FAN TV
+http://146.88.56.38:1935/liveedge/308045591837_600/chunklist.m3u8
+#EXTINF:-1,MTV ASIA
+http://103.77.116.193:443/music/mtv_asia_720p.stream/chunklist.m3u8
+#EXTINF:-1,MTV LIVE
+http://103.77.116.193:443/music/mtv_live_hd_720p.stream/chunklist.m3u8
+#EXTINF:-1,MTV CHINA
+http://103.77.116.193:443/music/mtv_china_720p.stream/chunklist.m3u8
+#EXTINF:-1,CHANNEL V THAILAND
+http://103.77.116.193:443/music/channel_v_thailand_720p.stream/chunklist.m3u8
+#EXTINF:-1,VERY TV
+http://103.77.116.193:443/music/very_tv_480p.stream/chunklist.m3u8
+#EXTINF:-1,ARIRANG
+http://103.77.116.193:443/foreign/arirang_720p.stream/chunklist.m3u8
+#EXTINF:-1,INDIES LIVE
+http://ec.playmedia.fr/indies-live/live/chunklist.m3u8
+#EXTINF:-1,CI HD
+http://103.77.116.193:443//foreign/ci_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,INTER. MOVIES
+http://103.77.116.250/boboapp5/interm/playlist.m3u8
+#EXTINF:-1,MOVIES24
+http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
+#EXTINF:-1,COMEDY_CENTRAL
+http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://103.77.116.250/boboapp6/FIGHT_SPORTS_HD/playlist.m3u8
+#EXTINF:-1,SPORT TV 1
+http://191.96.38.185/fifa55m-41/0x444_sporttv1_360p/playlist.m3u8
+#EXTINF:-1,SPORT TV 2
+http://191.96.38.185/fifa55m-41/0x444_sporttv2_360p/playlist.m3u8
+#EXTINF:-1,SPORT TV 3
+http://191.96.38.185/fifa55m-41/0x444_sporttv3_360p/playlist.m3u8
+#EXTINF:-1,SPORT TV 4
+http://191.96.38.185/fifa55m-41/0x444_sporttv4_360p/playlist.m3u8
+#EXTINF:-1,SPORT TV 5
+http://191.96.38.185/fifa55m-41/0x444_sporttv5_360p/playlist.m3u8
+#EXTINF:-1,EUROSPORT
+http://191.96.38.185/fifa55m-136/0x777_eurosport_720p/playlist.m3u8
+#EXTINF:-1,SKY SPORT MAINEVENT 
+http://191.96.38.185/fifa55m-136/0x777_eurosport_720p/playlist.m3u8
+#EXTINF:-1,SKY SPORT PREMIERE
+http://191.96.38.185/fifa55m-41/0x444_skysportpremieremanic_360p/playlist.m3u8
+#EXTINF:-1,SKY SPORT CRICKET
+http://191.96.38.185/fifa55m-41/0x444_skysportcricketmanic_360p/playlist.m3u8
+#EXTINF:-1,SKY SPORT ACTION
+http://191.96.38.185/fifa55m-41/0x444_skysportactionmanic_360p/playlist.m3u8
+#EXTINF:-1,SKY SPORT GOLF
+http://191.96.38.185/fifa55m-41/0x444_skysportgolfmanic_360p/playlist.m3u8
+#EXTINF:-1,SKY SPORT MIX
+http://191.96.38.185/fifa55m-41/0x444_skysportmixmanic_360p/playlist.m3u8
+#EXTINF:-1,SKY SPORT NEWS
+http://191.96.38.185/fifa55m-41/0x444_skysportnewsmanic_360p/playlist.m3u8
+#EXTINF:-1,BT SPORT HD 1
+http://103.77.116.193:443/sportinter/bt_sport_1_hd_360p.stream/playlist.m3u8
+#EXTINF:-1,BT SPORT HD 2
+http://103.77.116.193:443/sportinter/bt_sport_2_hd_360p.stream/playlist.m3u8
+#EXTINF:-1,BT SPORT HD 3
+http://103.77.116.193:443/sportinter/bt_sport_3_hd_360p.stream/playlist.m3u8
+#EXTINF:-1,BT SPORT ESPN
+http://103.77.116.193:443/sportinter/bt_sport_espn_360p.stream/playlist.m3u8
+#EXTINF:-1,EUROSPORT
+http://103.77.116.193:443/sportinter/eurosport_720p.stream/playlist.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://103.77.116.193:443/sportinter/eurosport_1_uk_360p.stream/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://103.77.116.193:443/sportinter/eurosport_2_uk_360p.stream/playlist.m3u8
+#EXTINF:-1,FOOTBALL 1
+http://103.77.116.193:443/sportinter/futbol1ukr_360p.stream/playlist.m3u8
+#EXTINF:-1,FOOTBALL 2
+http://103.77.116.193:443/sportinter/futbol2ukr_360p.stream/playlist.m3u8
+#EXTINF:-1,SUPERSPORT 3
+http://103.77.116.193:443/sportinter/supersport_3_albania_360p.stream/playlist.m3u8
+#EXTINF:-1,SUPERSPORT 4
+http://103.77.116.193:443/sportinter/supersport_4_albania_360p.stream/playlist.m3u8
+#EXTINF:-1,DIEMASPORT 1 HD
+http://103.77.116.193:443/sportinter/diema_sport_1_360p.stream/playlist.m3u8
+#EXTINF:-1,TELECLUB SPORT 1
+http://103.77.116.193:443/sportinter/teleclub1sw_360p.stream/playlist.m3u8
+#EXTINF:-1,TELECLUB SPORT 2
+http://103.77.116.193:443/sportinter/teleclub2sw_360p.stream/playlist.m3u8
+#EXTINF:-1,TELECOM SPORT 1
+http://103.77.116.193:443/sportinter/dolce_sport_1_360p.stream/playlist.m3u8
+#EXTINF:-1,SONY SIX
+http://103.77.116.193:443/sportinter/sony_six_360p.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 1 HD
+http://178.132.5.130:8089/live/I3474/5a3eb72ceaf99/2.m3u8
+#EXTINF:-1,beIN SPORT 2 HD
+http://178.132.5.130:8089/live/I3474/5a3eb72ceaf99/4.m3u8
+#EXTINF:-1,beIN SPORT 3 HD
+http://178.132.5.130:8089/live/I3474/5a3eb72ceaf99/6.m3u8
+#EXTINF:-1,beIN SPORT 4 HD
+http://178.132.5.130:8089/live/I3474/5a3eb72ceaf99/8.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD
+https://www.fifa55-live.com/fifa55m-136/0x777_beinsport1_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,beIN SPORTS 2 HD
+https://www.fifa55-live.com/fifa55m-136/0x777_beinsporthd2_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,beIN SPORTS 3 HD
+https://www.fifa55-live.com/fifa55m-136/0x777_beinsporthd3_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,beIN SPORTS 4 HD
+https://www.fifa55-live.com/fifa55m-136/0x777_beinsporthd4_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS HD 1
+http://191.96.38.185/fifa55m-54/0x777_2sporthd1_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS HD 2
+http://191.96.38.185/fifa55m-54/0x777_2sporthd2_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS HD 3
+http://191.96.38.185/fifa55m-54/0x777_2sporthd3_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS HD 4
+http://191.96.38.185/fifa55m-54/0x777_2sporthd4_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS 1
+http://191.96.38.185/fifa55m-136/00_2sport1_480p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS 2
+http://191.96.38.185/fifa55m-136/00_2sport2_480p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS 3
+http://191.96.38.185/fifa55m-136/00_2sport3_480p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS 5
+http://191.96.38.185/fifa55m-136/00_2sport5_480p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS 6
+http://191.96.38.185/fifa55m-136/00_2sport6_480p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS 7
+http://191.96.38.185/fifa55m-136/00_2sport7_480p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE SPORTS TENNIS
+http://191.96.38.185/fifa55m-136/0x777_truetennis_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE NBA
+https://www.fifa55-live.com/fifa55m-54/0x777_2nba_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE GOLF
+http://191.96.38.185/fifa55m-54/0x777_golfchannel_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE FOX SPORT 1
+http://191.96.38.185/fifa55m-54/0x777_foxsport1_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE FOX SPORT 2
+http://191.96.38.185/fifa55m-54/0x222_foxsport2_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,TRUE FOX SPORT 3
+http://191.96.38.185/fifa55m-54/0x222_foxsport2_720p/playlist.m3u8?key=nokey
+#EXTINF:-1,===== END =====
