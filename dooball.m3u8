@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",truehd1
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",truehd1
 https://live2.intersteam-idc.com/mm88/truehd1.stream/playlist.m3u8
 #EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",truehd2
 https://live2.intersteam-idc.com/mm88/truehd2.stream/playlist.m3u8
@@ -34,9 +34,11 @@ http://www.fifa55-live.com/fifa55m-136/0x777_truetennis_720p/chunklist.m3u8
 #EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD4
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/670/index.m3u8
 #EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD5azurewebsites.net
-http://191.96.38.54:19358/footballfuck/0x777_truetennis_720p/playlist.m3u8
-#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD6www.buaksib.com
-http://191.96.38.35:443/free/0x777_truetennis_720p/playlist.m3u8?key=buaksib2018040415228347021243
+http://www2.maxwin99.live:443/free/0x777_truetennis_360p/chunklist_w400682198.m3u8?key=5922268maxwin991jweqkxqw9
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD Skysport1
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/737/index.m3u8
+#EXTINF:-1 group-title="duballhd_TrueSport"tvg-id="" tvg-logo="",TrueTennisHD Skysport1 Deut
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
 #EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="",Bein1
 https://58f83983533f0350f321dd46.ballslnw.com/live/stream/bein1.m3u8_ga_cl=58f83983533f0350f321dd43&_ga_sk=4r3dYGQ7&_ga_trck=L0EALOGC3m-yjzEEMQBBDu4
 #EXTINF:-1 group-title="www.88live.tv_TrueSport"tvg-id="" tvg-logo="",Bein2
