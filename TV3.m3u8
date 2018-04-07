@@ -107,6 +107,8 @@ http://www.fifa55-live.com/fifa55m-53/00_boomerang_480p/chunklist.m3u8
 http://www.fifa55-live.com/fifa55m-53/00_gangcartoon_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",True Movie Hits
 http://www.fifa55-live.com/fifa55m-53/00_moviehits_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Movies"tvg-id="GVTV" tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-moviehits.png",True Movie Hits2
+https://cdn-livetv-01.movieclub.tv/movie/true_movie_hits_480p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-id="GVTV" tvg-logo="http://www.tokyo-cci-ict.com/wp-content/uploads/2016/05/penguin-1024x990.jpg",True Thai Film
 http://www.fifa55-live.com/fifa55m-53/00_2thaifilm_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies"tvg-id="GVTV" tvg-logo="http://iphone.truevisionstv.com/magazine/channel_logos/TRUE%20FILM%20ASIA.png",True Film Asia  
