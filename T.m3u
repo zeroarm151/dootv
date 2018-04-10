@@ -147,3 +147,13 @@ https://jibhd.cdnnaja.com/sporttrue/beinsport_sd1_480p.stream/chunklist.m3u8
 https://jibhd.cdnnaja.com/sporttrue/beinsport_sd2_480p.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SPORT",Tennis Backup
 http://soccerlive168.sai8.live:443/free/0x777_truetennis_720p/chunklist_w1551296844.m3u8?key=9azle6lc14ctynraj72l496c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SPORT",US: Tennis Channel FHD
+http://mriptv.in:8080/live/ignacio/ignacio/75138.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SPORT",US: Tennis HD
+http://mriptv.in:8080/live/ignacio/ignacio/74936.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SPORT",IT: Super Tennis HD
+http://mriptv.in:8080/live/ignacio/ignacio/62023.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SPORT",IT: Sky Supertennis HD
+http://mriptv.in:8080/live/ignacio/ignacio/87638.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SPORT",Concert HD
+http://mriptv.in:8080/live/ignacio/ignacio/68543.ts
