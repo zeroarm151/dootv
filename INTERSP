@@ -181,6 +181,344 @@ http://163.172.51.191:1991/live/nizar/nizar1234/22073.m3u8
 http://163.172.51.191:1991/live/nizar/nizar1234/22072.m3u8
 #EXTINF:-1,UK : SKY SPORT F1 HD
 http://163.172.51.191:1991/live/nizar/nizar1234/22071.m3u8
+#EXTINF:-1, PremierHD1
+https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1, PremierHD2
+https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1, PremierHD3
+https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1, PremierHD4
+https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1, PremierHD5
+https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1, SkynetsportHD
+https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1, Skynetsport1
+https://tv.xpeer-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1, Skynetsport2
+https://tv.xpeer-cdn.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1, Skynetsport3
+https://tv.xpeer-cdn.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1, Skynetsport4
+https://tv.xpeer-cdn.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1, Skynetsport5
+https://tv.xpeer-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1, Skynetsport6
+https://tv.xpeer-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1, Bein1
+https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1, Bein2
+https://tv.xpeer-cdn.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1, True Sport HD1
+https://tv.xpeer-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1, True Sport HD2
+https://tv.xpeer-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1, True Sport HD3
+https://tv.xpeer-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1, Fox Sport1
+https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1, Fox Sport2
+https://tv.xpeer-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1, Fox Sport3
+https://tv.xpeer-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1, Tennis HD
+https://tv.xpeer-cdn.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1, NBA HD
+https://tv.xpeer-cdn.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1, Golf HD
+https://tv.xpeer-cdn.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1, HBO HD
+https://tv.xpeer-cdn.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1, HBO Hit
+https://tv.xpeer-cdn.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1, HBOSignature
+https://tv.xpeer-cdn.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1, FoxActionHD_TH
+https://tv.xpeer-cdn.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1, FoxActionHD
+https://tv.xpeer-cdn.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1, FoxMovies_TH
+https://tv.xpeer-cdn.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1, FoxMovies
+https://tv.xpeer-cdn.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1, FoxFamilyHD_TH
+https://tv.xpeer-cdn.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1, FoxFamilyHD
+https://tv.xpeer-cdn.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1, FoxThai_TH
+https://tv.xpeer-cdn.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1, FoxThai
+https://tv.xpeer-cdn.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:-1, FoxCrimeHD_TH
+https://tv.xpeer-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1, FoxCrimeHD
+https://tv.xpeer-cdn.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1, RedbyHBO
+https://tv.xpeer-cdn.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1, AXN HD
+https://tv.xpeer-cdn.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1, WarnerTV HD
+https://tv.xpeer-cdn.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1, FXThailand
+https://tv.xpeer-cdn.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1, TrueFilmHD1
+https://tv.xpeer-cdn.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:-1, TrueFilmHD2
+https://tv.xpeer-cdn.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1, HISTORY HD
+https://tv.xpeer-cdn.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1, H2 HD
+https://tv.xpeer-cdn.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1, DiscoveryChannel
+https://tv.xpeer-cdn.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1, DiscoveryHDWorld
+https://tv.xpeer-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1, NatGeoHD_TH
+https://tv.xpeer-cdn.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1, NatGeoHD
+https://tv.xpeer-cdn.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:-1, NatGeoWild_TH
+https://tv.xpeer-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1, NatGeoWild
+https://tv.xpeer-cdn.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1, NatGeoWild
+https://tv.xpeer-cdn.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:-1, AnimalPlanet
+https://tv.xpeer-cdn.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1, Sumrujlok
+https://tv.xpeer-cdn.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1, CartoonNetwork
+https://tv.xpeer-cdn.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1, DisneyXD
+https://tv.xpeer-cdn.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,3HD
+https://tv.xpeer-cdn.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1,5HD
+https://tv.xpeer-cdn.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1,7HD
+https://tv.xpeer-cdn.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1,MCOT HD
+https://tv.xpeer-cdn.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1,NBT
+https://tv.xpeer-cdn.com/02_NBTSD_480p/chunklist.m3u8
+#EXTINF:-1,TPBS HD
+https://tv.xpeer-cdn.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:-1,PPTV HD
+https://tv.xpeer-cdn.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1,THAIRATH HD
+https://tv.xpeer-cdn.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1,ONE HD
+https://tv.xpeer-cdn.com/02_GMMONE_720p/chunklist.m3u8
+#EXTINF:-1,AMARIN HD
+https://tv.xpeer-cdn.com/02_AMARINHD_720p/chunklist.m3u8
+#EXTINF:-1,TNN24
+https://tv.xpeer-cdn.com/02_TNN24_480p/chunklist.m3u8
+#EXTINF:-1,TRUE4U
+https://tv.xpeer-cdn.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1,VIOCE
+https://tv.xpeer-cdn.com/02_VOICE_480p/chunklist.m3u8
+#EXTINF:-1,WORKPIONT
+https://tv.xpeer-cdn.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1,GMM
+https://tv.xpeer-cdn.com/02_GMM_720p/chunklist.m3u8
+#EXTINF:-1,MONO29
+https://tv.xpeer-cdn.com/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1,NEW
+https://tv.xpeer-cdn.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1,NATION TV
+https://tv.xpeer-cdn.com/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1,MCOT FAMILY
+https://tv.xpeer-cdn.com/02_MCOTFAMILY_720p/chunklist.m3u8
+#EXTINF:-1,8 HD
+https://tv.xpeer-cdn.com/02_8HD_720p/chunklist.m3u8
+#EXTINF:-1,3SD
+https://tv.xpeer-cdn.com/02_CH3SD_480p/chunklist.m3u8
+#EXTINF:-1,3FAMILY
+https://tv.xpeer-cdn.com/02_CH3FAMILY_480p/chunklist.m3u8
+#EXTINF:-1,FANMUSICHD
+https://tv.xpeer-cdn.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:0, PremierHD1
+https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0, PremierHD2
+https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0, PremierHD3
+https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0, PremierHD4
+https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0, PremierHD5
+https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0, SkynetsportHD
+https://live.dufree4k.net/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0, Skynetsport1
+https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport2
+https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport3
+https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport4
+https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport5
+https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport6
+https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0, Bein1
+https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
+#EXTINF:0, Bein2
+https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD1
+https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD2
+https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD3
+https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport1
+https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport2
+https://live.dufree4k.net/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport3
+https://live.dufree4k.net/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0, Tennis HD
+https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0, NBA HD
+https://live.dufree4k.net/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0, Golf HD
+https://live.dufree4k.net/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0, HBO HD
+https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:0, HBO Hit
+https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0, HBOSignature
+https://live.dufree4k.net/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD_TH
+https://live.dufree4k.net/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD
+https://live.dufree4k.net/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies_TH
+https://live.dufree4k.net/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies
+https://live.dufree4k.net/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD_TH
+https://live.dufree4k.net/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD
+https://live.dufree4k.net/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:0, FoxThai_TH
+https://live.dufree4k.net/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxThai
+https://live.dufree4k.net/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD_TH
+https://live.dufree4k.net/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD
+https://live.dufree4k.net/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:0, RedbyHBO
+https://live.dufree4k.net/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:0, AXN HD
+https://live.dufree4k.net/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0, WarnerTV HD
+https://live.dufree4k.net/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0, FXThailand
+https://live.dufree4k.net/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD1
+https://live.dufree4k.net/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD2
+https://live.dufree4k.net/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:0, HISTORY HD
+https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0, H2 HD
+https://live.dufree4k.net/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryChannel
+https://live.dufree4k.net/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0, DiscoveryHDWorld
+https://live.dufree4k.net/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0, NatGeoHD_TH
+https://live.dufree4k.net/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeoHD
+https://live.dufree4k.net/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild_TH
+https://live.dufree4k.net/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://live.dufree4k.net/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://live.dufree4k.net/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0, AnimalPlanet
+https://live.dufree4k.net/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0, Sumrujlok
+https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0, CartoonNetwork
+https://live.dufree4k.net/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0, DisneyXD
+https://live.dufree4k.net/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,PremierHD1
+https://tvrealtime.com/live/BEIN1/playlist.m3u8
+#EXTINF:-1,PremierHD2
+https://tvrealtime.com/live/BEIN2/playlist.m3u8
+#EXTINF:-1,PremierHD3
+https://tvrealtime.com/live/BEIN3/playlist.m3u8
+#EXTINF:-1,PremierHD4
+https://tvrealtime.com/live/BEIN4/playlist.m3u8
+#EXTINF:-1,FOXSPORT1
+https://tvrealtime.com/live/FOXSPORT1/playlist.m3u8
+#EXTINF:-1,FOXSPORT2
+https://tvrealtime.com/live/FOXSPORT2/playlist.m3u8
+#EXTINF:-1,FOXSPORT3
+https://tvrealtime.com/live/FOXSPORT3/playlist.m3u8
+#EXTINF:-1,adsport1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,adsport2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,adsport3
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,adsport4
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,BTSPORTHD1
+https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BTSPORTHD2
+https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV1
+https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV2
+https://live.dufree4k.net/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV3
+https://live.dufree4k.net/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV5
+https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,ถิ่นใต้
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+#EXTINF:-1,ไก่ชนเงินล้าน
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle2.smil/playlist.m3u8
+#EXTINF:-1,BOOMERANG
+https://free.fwstream.com:1215/freelive-edge/_definst_/boomerang/chunklist.m3u8
+#EXTINF:-1,GANG CRRTOON
+https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
+#EXTINF:-1,HBO HD
+https://vip.dufree4k.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO FAMILY
+https://live.dufree4k.net/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:-1,FOX ACTION MOVIES TH
+https://live.dufree4k.net/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,Foxsport1
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+#EXTINF:-1,Foxsport2
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+#EXTINF:-1,Foxsport3
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+#EXTINF:-1, Truesport5
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+#EXTINF:-1, Truesport6
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+#EXTINF:-1, Truesport7
+http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
+#EXTINF:-1 FOXCrime SD
+http://27.254.149.109:8081/tumlive/Foxcrime/chunks.m3u8
+#EXTINF:-1 FOXfamilyMovie
+http://27.254.149.109:8081/tumlive/Foxfamily/chunks.m3u8
+#EXTINF:-1,Movie 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1,Moive 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1,Movie 3
+http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
+#EXTINF:-1,UpMovie
+http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie_4K"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vY7BkFDdL._SY445_.jpg",King Arthur
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
 
