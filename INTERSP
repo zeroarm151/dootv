@@ -325,9 +325,9 @@ http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1, Truesport7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1 FOXCrime SD
+#EXTINF:-1, FOXCrime SD
 http://27.254.149.109:8081/tumlive/Foxcrime/chunks.m3u8
-#EXTINF:-1 FOXfamilyMovie
+#EXTINF:-1, FOXfamilyMovie
 http://27.254.149.109:8081/tumlive/Foxfamily/chunks.m3u8
 #EXTINF:-1,Movie 1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
