@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, True Premier Football HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,3HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1,3 HD (BU)
