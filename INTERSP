@@ -1,6 +1,26 @@
 #EXTM3U
 #EXTINF:-1, Testtt Premier Football HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIyhdti.png" group-title="SOUTH KOREA",SPOTV 2 (New!)
+http://114.207.77.30:9981/stream/channelid/1910405708
+#EXTINF:-1,FOX SPORTS 2
+http://221.178.148.115:9981/stream/channelid/1232604094?profile=pass
+#EXTINF:-1,FOX SPORTS 3
+http://221.178.148.115:9981/stream/channelid/1262347504?profile=pass
+#EXTINF:-1,SKYNET SPORTS 1
+http://221.178.148.115:9981/stream/channelid/2131729618?profile=pass
+#EXTINF:-1,SKYNET SPORTS 2
+http://221.178.148.115:9981/stream/channelid/995885125?profile=pass
+#EXTINF:-1,SKYNET SPORTS 3
+http://221.178.148.115:9981/stream/channelid/1592443304?profile=pass
+#EXTINF:-1,SKYNET SPORTS 4
+http://221.178.148.115:9981/stream/channelid/774721098?profile=pass
+#EXTINF:-1,SKYNET SPORTS 6
+http://221.178.148.115:9981/stream/channelid/285699748?profile=pass
+#EXTINF:-1,SKYNET SPORTS HD
+http://221.178.148.115:9981/stream/channelid/2013868628?profile=pass
+#EXTINF:-1,SKYNET SPORTS PLUS
+http://221.178.148.115:9981/stream/channelid/768345644?profile=pass
 #EXTINF:-1, True Premier Football HD 1
 https://hdplayer.cdn-streaming.live/hls/tpf1/playlist.m3u8
 #EXTINF:-1, True Premier Football HD 2
