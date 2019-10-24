@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Testtt Premier Football HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1, True Premier Football HD 1
 https://hdplayer.cdn-streaming.live/hls/tpf1/playlist.m3u8
 #EXTINF:-1, True Premier Football HD 2
