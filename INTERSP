@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1, True Premier Football HD 1
+https://hdplayer.cdn-streaming.live/hls/tpf1/playlist.m3u8
+#EXTINF:-1, True Premier Football HD 2
+https://hdplayer.cdn-streaming.live/hls/tpf2/playlist.m3u8
+#EXTINF:-1, True Premier Football HD 3
+https://hdplayer.cdn-streaming.live/hls/tpf3/playlist.m3u8
+#EXTINF:-1, True Premier Football HD 4
+https://hdplayer.cdn-streaming.live/hls/tpf4/playlist.m3u8
+#EXTINF:-1, True Premier Football HD 5
+https://hdplayer.cdn-streaming.live/hls/tpf5/playlist.m3u8
+#EXTINF:-1, True Sport HD 1
+https://hdplayer.cdn-streaming.live/hls/thd1/playlist.m3u8
+#EXTINF:-1, True Sport HD 2
+https://hdplayer.cdn-streaming.live/hls/thd2/playlist.m3u8
+#EXTINF:-1, True Sport HD 3
+https://hdplayer.cdn-streaming.live/hls/thd3/playlist.m3u8
+#EXTINF:-1, True Sport  Premier 2
+https://hdplayer.cdn-streaming.live/hls/tsp2/playlist.m3u8
+#EXTINF:-1, True Sport  Premier 5
+https://hdplayer.cdn-streaming.live/hls/tsp5/playlist.m3u8
+#EXTINF:-1, True Sport  Premier 6
+https://hdplayer.cdn-streaming.live/hls/tsp6/playlist.m3u8
+#EXTINF:-1, True Sport  Premier 7
+https://hdplayer.cdn-streaming.live/hls/tsp7/playlist.m3u8
 #EXTINF:-1, Testtt Premier Football HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIyhdti.png" group-title="SOUTH KOREA",SPOTV 2 (New!)
