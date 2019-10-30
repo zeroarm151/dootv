@@ -1,79 +1,201 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="INFO",* Fluxus Lust
-http://184.173.142.117:21728/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Adult VOD
-http://184.173.142.117:21728/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.18.2017
-http://184.173.142.117:21728/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LMa8p2F.png" group-title="INFO",> Like Us!
-http://184.173.142.117:21728/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
-http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
-http://62.210.113.177:19000/udp/238.0.100.6:5000
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
-http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 1
+http://media.tuboitaliano.it:81/videos/5/7/5/a/f/575af45f819f8.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 10
+http://media.tuboitaliano.it:81/videos/5/7/5/d/c/575dcda4732dd.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 12
+http://media.tuboitaliano.it:81/videos/5/7/8/6/e/5786e11b2acda.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 13
+http://media.tuboitaliano.it:81/videos/5/7/e/0/0/57e000c813990.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 16
+http://media.tuboitaliano.it:81/videos/5/7/5/d/4/575d4ee21a02e.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 17
+http://media.tuboitaliano.it:81/videos/5/9/2/3/2/59232ea4c21d8.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 19
+http://media.tuboitaliano.it:81/videos/5/9/b/b/b/59bbb36483119.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 2
+http://media.tuboitaliano.it:81/videos/5/8/5/7/0/5857011522b4d.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 21
+http://media.videopornoitaliano.com:81/videos/5/8/1/9/c/5819c03bc8715.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 23
+http://media.tuboitaliano.it:81/videos/5/9/2/3/1/592312bab5803.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 24
+http://videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 25
+http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 3
+http://media.tuboitaliano.it:81/videos/5/7/5/c/3/575c344b168cc.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 32
+http://cdn.videos.pornopizza.it/media/videos/5/6/f/1/6/56f16772da365.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 34
+http://cdn.videos.pornopizza.it/media/videos/5/6/6/6/9/566693ce97327.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 38
+http://media.videopornoitaliano.com:81/videos/5/8/3/7/e/5837efc8c3834.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 4
+http://media.tuboitaliano.it:81/videos/5/9/1/a/9/591a97ec61417.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 40
+http://media.videopornoitaliano.com:81/videos/5/8/6/d/0/586d0f3c1b4ee.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 7
+http://media.tuboitaliano.it:81/videos/5/7/b/d/d/57bdd9ad873d2.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 8
+http://media.tuboitaliano.it:81/videos/5/7/8/7/2/5787205acfe25.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Italian Video 9
+http://media.videopornoitaliano.com:81/videos/5/8/4/c/8/584c80c537f54.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",La meilleure façon
+http://cdn.justporno.sex/video_hd/1314/13144.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Lecciones de cocina con Madison
+http://cdn2.servitubes.com/videos/f/3/0/3/c/f303c83df55269205ca2d0487c55145c7ac27907.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Playlist Sourse
+http://s27.znimg.ru/1571559900/m9jhc5onuw.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Lizz fait
+http://cdn.justporno.sex/video_hd/0/5834.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Lust Cinema - Sex Fetish
+http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",MILF trio fille
+http://cdn.justporno.sex/video_hd/0/3471.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Mira tu polla
+http://cdn2.servitubes.com/videos/e/4/a/6/9/e4a69acb6e1e959c9b3f5b3413ebe1ea9b5e795e.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Penetrando a Kelsie Monroe
+http://cdn2.servitubes.com/videos/0/9/4/f/7/094f71d2f0310d75f102985daa132ee3f51368de.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Porneq 1
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS"0-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Porneq 17
+http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Porneq 2
+http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Porneq 20
+http://porneq.com/media/porn12/videos/876/Rebeka-21yo-Virgin-Rebeka-Letting-Me-Finger-Her-And-Go-Down-Til-Orgasm-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS"280x720-360p-sqWVNIw88nh.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Porneq 3
+http://porneq.com/media/porn3/videos/162/Hegre-Art-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS"5-08-04-Emily-And-Serena-Cucumber-Loving-XXX-MP4-KTR-hart-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS"5-08-04-emily-and-serena-cucumber-loving-360p-OYjQJSpz65S.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Porneq 9
+http://porneq.com/media/porn4/videos/907/Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-360p-gLM0fvToF3C.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Preston y Blue en accion
+http://cdn2.servitubes.com/videos/4/3/2/8/a/4328ad617ef937441dbd7481fd32db6c2c7ad545.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Public Pick Ups
+http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498f04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Suédois jeune couple
+http://cdn.justporno.sex/video_hd/1332/13323.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Team Skeet - Natalia Rossi
+http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Todo el placer posible
+http://cdn2.servitubes.com/videos/6/d/9/e/0/6d9e03bfe19d62bed366da280b566f2350ce9010.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Trio Amour
+http://cdn.justporno.sex/video_hd/0/2339.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Trio coulée
+http://cdn.justporno.sex/video_hd/0/9655.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TVCLASS",Two 18 years
+http://cdn.justporno.sex/video_hd/1761/17615.mp4
+*******************************************************************************
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
-http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (USA)
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Mexico)
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Spain)
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passione
-http://37.9.0.201:8888
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Penthouse Asia
-http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
-http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Sex Phone
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
-http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Playboy TV
+http://87.245.211.201/live/eds/Playboy/HLS_encr/Playboy.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Private TV HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Playlist Sourse
+http://s27.znimg.ru/1571559900/m9jhc5onuw.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Privé TV
+http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+Join us t.me/ZalTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",AST TV 1
+http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",AST TV 1
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",AST TV 2
+http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",AST TV 2
+https://www.ast.tv/stream/2/high.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",AST TV 2
+https://www.ast.tv/stream/2/normal.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="TV",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
+****************************************
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 24
+http://content2.sexforsure.com/2013/07/02/8/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 25
+http://content2.sexforsure.com/2013/07/02/16/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 26
+http://content2.sexforsure.com/2013/07/03/7/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 27
+http://content2.sexforsure.com/2013/07/03/11/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 28
+http://content2.sexforsure.com/2013/07/03/20/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 29
+http://content2.sexforsure.com/2013/07/03/19/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 30
+http://content2.sexforsure.com/2013/07/02/14/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 4
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/123/0_833.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 6
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 7
+http://content2.sexforsure.com/2013/07/03/3/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 8
+http://content2.sexforsure.com/2013/07/02/18/Video.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Video 9
+http://content2.sexforsure.com/2013/07/03/18/Video.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/h9aRgeG.png" group-title="TINY 4K",Tiny 4K - VOD 01
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
