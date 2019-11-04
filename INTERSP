@@ -29,10 +29,74 @@ https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1, Testtt TeNNiS
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CIyhdti.png" group-title="SOUTH KOREA",SPOTV 2 (New!)
-http://114.207.77.30:9981/stream/channelid/1910405708
+*******************
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein5
+http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/9.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein5
+http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/29.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein6
+http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/32.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein6
+http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/12.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein7
+http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/33.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein8
+http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/34.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein9
+http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/18.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein9
+http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/30.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein10
+http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/46.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein10
+http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/31.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein1
+http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/35.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein1
+http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/34.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein2
+http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/38.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein2
+http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/36.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein2
+http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein3
+http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/41.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein3
+http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/40.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein3
+http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein1
+http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/47.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein1
+http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/25.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein1
+http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein2
+http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/45.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein2
+http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/26.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein2
+http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein2
+http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/27.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein3
+http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/6.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein3
+http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/5.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein4
+http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein4
+http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein4
+http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/8.ts
+#EXTINF:-1 group-title="BEIN_OUT"tvg-logo="https://images.iptvhero.com/channel/hd-bein1.png",Bein4
+http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
+***
+#EXTINF:-1,FOX SPORTS 1
+http://45.58.62.92:8080
 #EXTINF:-1,FOX SPORTS 2
-http://221.178.148.115:9981/stream/channelid/1232604094?profile=pass
+http://210.210.155.35/uq2663/h/h20/index1.m3u8
 #EXTINF:-1,FOX SPORTS 3
 http://221.178.148.115:9981/stream/channelid/1262347504?profile=pass
 #EXTINF:-1,SKYNET SPORTS 1
