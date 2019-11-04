@@ -1,30 +1,32 @@
 #EXTM3U
 #EXTINF:-1, True Premier Football HD 1
-https://hdplayer.cdn-streaming.live/hls/tpf1/playlist.m3u8
-#EXTINF:-1, True Premier Football HD 2
-https://hdplayer.cdn-streaming.live/hls/tpf2/playlist.m3u8
-#EXTINF:-1, True Premier Football HD 3
-https://hdplayer.cdn-streaming.live/hls/tpf3/playlist.m3u8
-#EXTINF:-1, True Premier Football HD 4
-https://hdplayer.cdn-streaming.live/hls/tpf4/playlist.m3u8
-#EXTINF:-1, True Premier Football HD 5
-https://hdplayer.cdn-streaming.live/hls/tpf5/playlist.m3u8
-#EXTINF:-1, True Sport HD 1
-https://hdplayer.cdn-streaming.live/hls/thd1/playlist.m3u8
-#EXTINF:-1, True Sport HD 2
-https://hdplayer.cdn-streaming.live/hls/thd2/playlist.m3u8
-#EXTINF:-1, True Sport HD 3
-https://hdplayer.cdn-streaming.live/hls/thd3/playlist.m3u8
-#EXTINF:-1, True Sport  Premier 2
-https://hdplayer.cdn-streaming.live/hls/tsp2/playlist.m3u8
-#EXTINF:-1, True Sport  Premier 5
-https://hdplayer.cdn-streaming.live/hls/tsp5/playlist.m3u8
-#EXTINF:-1, True Sport  Premier 6
-https://hdplayer.cdn-streaming.live/hls/tsp6/playlist.m3u8
-#EXTINF:-1, True Sport  Premier 7
-https://hdplayer.cdn-streaming.live/hls/tsp7/playlist.m3u8
-#EXTINF:-1, Testtt Premier Football HD 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1, True Premier Football HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1, True Premier Football HD 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1, True Premier Football HD 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1, True Premier Football HD 5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1, True Sport HD 1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1, True Sport HD 2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1, True Sport HD 3
+https://www.livedoomovie.com/02_3sporthd2_720p/chunklist.m3u8
+#EXTINF:-1, True Sport HD 4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1, True Sport  Premier 2
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1, True Sport  Premier 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1, True Sport  Premier 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1, True Sport  Premier 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1, Testtt HBO
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIyhdti.png" group-title="SOUTH KOREA",SPOTV 2 (New!)
 http://114.207.77.30:9981/stream/channelid/1910405708
 #EXTINF:-1,FOX SPORTS 2
