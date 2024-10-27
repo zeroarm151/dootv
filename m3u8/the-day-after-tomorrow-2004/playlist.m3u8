@@ -1,5 +1,12 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=480x360
-https://main.24playerhd.com/m3u8/3abdeb6da334f8d8e571bfcf/3abdeb6da334f8d8e571bfcf168.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
-https://main.24playerhd.com/m3u8/
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="ENG",DEFAULT=YES,URI="https://statics-01.duckduckcdn.com/07dbbb7c-4560-5e9e-b33e-07ee5a5cea11/audio-eng/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="tha",NAME="THA",DEFAULT=NO,URI="https://statics-01.duckduckcdn.com/07dbbb7c-4560-5e9e-b33e-07ee5a5cea11/audio-tha/audio.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="eng",NAME="English",DEFAULT=NO,URI="https://statics-01.duckduckcdn.com/07dbbb7c-4560-5e9e-b33e-07ee5a5cea11/sub-eng/index.xml"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="tha",NAME="Thai",DEFAULT=NO,URI="https://statics-01.duckduckcdn.com/07dbbb7c-4560-5e9e-b33e-07ee5a5cea11/sub_tha/index.xml"
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,AUDIO="aac",SUBTITLES="subs"
+https://statics-01.duckduckcdn.com/07dbbb7c-4560-5e9e-b33e-07ee5a5cea11/videos/1080p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,AUDIO="aac",SUBTITLES="subs"
+https://statics-01.duckduckcdn.com/07dbbb7c-4560-5e9e-b33e-07ee5a5cea11/videos/720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480,AUDIO="aac",SUBTITLES="subs"
+https://statics-01.duckduckcdn.com/07dbbb7c-4560-5e9e-b33e-07ee5a5cea11/videos/480p.m3u8
